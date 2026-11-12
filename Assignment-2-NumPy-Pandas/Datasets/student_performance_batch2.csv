@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Department,Attendance_Pct,Study_Hours,Math,Science,English
+151,Sneha Pai,Male,ISE,99.0,7.0,85.0,86.0,
+152,Priya Kamath,Female,CSE,69.0,4.2,,,
+153,Rohan Pai,Male,CSE,,3.7,76.0,67.0,96.0
+154,Aarav Poojary,Male,ISE,81.0,5.5,94.0,83.0,74.0
+155,Ananya Rao,Male,CSE,90.0,2.9,89.0,74.0,76.0
+156,Priya Kulal,Female,CSE,83.0,2.0,63.0,35.0,41.0
+157,Ananya Kamath,Female,ME,,,83.0,50.0,75.0
+158,Kavya Pai,Female,ISE,82.0,3.9,52.0,,
+159,Pooja Kulal,Male,CIVIL,90.0,2.6,62.0,81.0,
+160,Divya Kulal,Male,CSE,88.0,3.6,,,40.0
+161,Vikram Acharya,Male,ISE,61.0,,,44.0,69.0
+162,Rahul Poojary,Male,ISE,,,89.0,71.0,95.0
+163,Neha Poojary,Male,ISE,79.0,3.7,,78.0,82.0
+164,Neha Pai,Female,ISE,,5.8,,65.0,43.0
+165,Aarav Kamath,Female,ECE,78.0,3.1,44.0,90.0,97.0
