@@ -35,4 +35,3 @@ This folder contains the SQL scripts, SQLite database and Python execution file 
 
 ## Objective
 To understand database operations and perform data analysis using SQL queries.
-
